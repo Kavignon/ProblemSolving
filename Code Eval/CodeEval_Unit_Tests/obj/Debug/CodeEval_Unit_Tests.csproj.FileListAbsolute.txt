@@ -1,0 +1,12 @@
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Unit_Tests\obj\Debug\CodeEval_Unit_Tests.csprojResolveAssemblyReference.cache
+
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Unit_Tests\bin\Debug\CodeEval_Unit_Tests.dll
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Unit_Tests\bin\Debug\CodeEval_Unit_Tests.pdb
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Unit_Tests\bin\Debug\CodeEval_Easy_Problems.exe
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Unit_Tests\bin\Debug\CodeEval_Hard_Problems.exe
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Unit_Tests\bin\Debug\CodeEval_Moderate_Problems_CSharp.exe
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Unit_Tests\bin\Debug\CodeEval_Easy_Problems.pdb
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Unit_Tests\bin\Debug\CodeEval_Hard_Problems.pdb
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Unit_Tests\bin\Debug\CodeEval_Moderate_Problems_CSharp.pdb
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Unit_Tests\obj\Debug\CodeEval_Unit_Tests.dll
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Unit_Tests\obj\Debug\CodeEval_Unit_Tests.pdb

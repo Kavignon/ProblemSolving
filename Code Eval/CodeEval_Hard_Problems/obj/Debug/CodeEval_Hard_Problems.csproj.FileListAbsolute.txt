@@ -1,0 +1,6 @@
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Hard_Problems\bin\Debug\CodeEval_Hard_Problems.exe.config
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Hard_Problems\bin\Debug\CodeEval_Hard_Problems.exe
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Hard_Problems\bin\Debug\CodeEval_Hard_Problems.pdb
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Hard_Problems\obj\Debug\CodeEval_Hard_Problems.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Hard_Problems\obj\Debug\CodeEval_Hard_Problems.exe
+C:\Users\Kevin\Documents\Katas_Resolved\CodeWars_Solutions_CSharp\CodeEval_Hard_Problems\obj\Debug\CodeEval_Hard_Problems.pdb
